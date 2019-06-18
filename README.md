@@ -1,2 +1,3 @@
 # helpfulLinksAndTips
-a link repository - like shared bookmarks
+a [link repository](https://github.com/WizardOfArc/helpfulLinksAndTips/tree/master/interesting_links.md) - like shared bookmarks
+and a list of tips.
