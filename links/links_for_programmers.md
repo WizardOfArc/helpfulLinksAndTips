@@ -19,4 +19,7 @@
 
 ## Scala:
  - [Scala Documentation](https://docs.scala-lang.org/overviews/)
+ 
+## SVG:
+ - [Jenkov SVG Tutorials](https://tutorials.jenkov.com/svg/index.html) - _the best tutorials for SVG_
 
