@@ -20,7 +20,7 @@
 1. Topic: Single Subject presenting something "wrong" - must not include opinion.
 2. Association List: Specific things related to the topic.
 3. Punch-Premise: A negative opinion bout something on the association list.
-4. Set-up Premise: Opnion opposite to the punch-premise.  Directly opposite, or opposite by degree are both okay.
+4. Set-up Premise: Opinion opposite to the punch-premise.  Directly opposite, or opposite by degree are both okay.
 5. Writing Set-ups: Examples of the Set-up Premise (????)
 6. "What am I assuming about this statement?"<sup>*</sup>
 7. "What is the thing that caused me to make this assumption?" (connector)<sup>*</sup>
