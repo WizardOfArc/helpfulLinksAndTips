@@ -1,4 +1,4 @@
-## D3.js tips
- - [Video 1 of 3](https://www.youtube.com/watch?v=C4t6qfHZ6Tw)
- - [Video 2 of 3](https://www.youtube.com/watch?v=EYmJEsReewo)
- - [Video 3 of 3](https://www.youtube.com/watch?v=dL5dWNMGy5g)
+# Interesting or Useful Links
+ - [For Programmers](https://github.com/WizardOfArc/helpfulLinksAndTips/tree/master/links_for_programmers.md)
+ - [For Musicians](https://github.com/WizardOfArc/helpfulLinksAndTips/tree/master/links_for_muscians.md)
+ - [For Language Nerds](https://github.com/WizardOfArc/helpfulLinksAndTips/tree/master/links_for_linguists.md) 
