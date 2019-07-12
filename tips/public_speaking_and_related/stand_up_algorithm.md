@@ -3,7 +3,7 @@
  - A Joke requires 2 story lines.
  - Every part of a thing you imagine exists, but aren't directly perceiving is an assumption. If an assumption is made, then a joke is possible.
  - The aim of the reinterpretation is to shatter the assumption.
- - You explore a joke's possable paths by asking questions.
+ - You explore a joke's passable ways by asking questions.
  - The jokes are in the details.
  - The sense of humor evolved as a means of coping with painful things.
  - Maintain a joke and routine file.
