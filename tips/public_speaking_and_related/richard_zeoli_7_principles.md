@@ -1,5 +1,5 @@
 # Seven Principles of Effective Public Speaking
-_By: Richard Zeoli**
+_By: Richard Zeoli_
 
 When we watch celebrities, politicians, or business leaders speak on television or in public, they seem so at ease that we may wonder: are great speakers made, or are they just born that way? While it is true that some individuals are born with this gift, many effective public speakers have trained themselves to be so. Either they have received formal media training or they have delivered so many presentations that over time they’ve learned what works for them. So, what is the true secret to effective public speaking?
 Here are seven principles of public speaking that I’ve developed in my role as a media coach. Keep them in mind the next time you find yourself presenting before a group.
@@ -32,6 +32,6 @@ If you’ve followed the first six principles outlined here you already have the
 Want to learn more on being an effective speaker? Watch our free webcast on delivering your message with authority and confidence.
 
 ### About the Author
-**Richard Zeoli** is the founder and president of RZC Impact, an executive communications training firm. He is the author of The 7 Principles of Public Speaking (Skyhorse Publishing) and is a Visiting Associate at the Eagleton Institute of Politics at Rutgers University in New Jersey. For more information, visit [RZC Impact](http://www.rzcimpact.com)
+**Richard Zeoli** is the founder and president of **RZC Impactx**, an executive communications training firm. He is the author of The 7 Principles of Public Speaking (Skyhorse Publishing) and is a Visiting Associate at the Eagleton Institute of Politics at Rutgers University in New Jersey. For more information, visit [RZC Impact](http://www.rzcimpact.com)
 
 
