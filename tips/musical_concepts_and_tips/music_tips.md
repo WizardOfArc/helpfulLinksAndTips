@@ -8,3 +8,4 @@
  - [Remote Collab Patterns](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/remote_collab_patterns.md)
  - [Random Notes](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/randomMusicNotesTips.md)
  - [Wee Guitar Grimoire](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/guitar_grimoire)
+ - [Improvement Tips](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/musicImprovementNotes.md)
