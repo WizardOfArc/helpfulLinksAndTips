@@ -1,4 +1,4 @@
 # Remote Collaboration Patterns
- - ![alt text]()
- - ![alt text]()
- - ![alt text]()
+ - ![alt text](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/CyclicPassing.png "Cyclic Passing")
+ - ![alt text](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/ParallelAttack.png "Parallel Attck")
+ - ![alt text](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/VCSinTurn.png "VCS in Turn")
