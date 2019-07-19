@@ -19,7 +19,7 @@
  - Payoff
  - Approriate Form
 
-## Mesarure Tips
+## Measure Tips
  - whole song ~32 bars
  - verse ~4 to 8 bars
     - ~25 seconds
