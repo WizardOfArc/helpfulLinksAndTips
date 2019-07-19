@@ -43,18 +43,18 @@ Writer's block is a subconscious cue that something is unresolved and must be at
 ## Stream of consciousness -> free associated blabber
 
 ## Problem-Solving _Exercise_.
- - come up with an arbitrary premise or a set of parameter using the attributes:
- - - Form (number and length of sections, bars per section)
- - - Tempo
- - - Time Signature
- - - Key
- - - Melodic Mode
- - - Number of Chords per section
- - - Number of Tracks
- - - Density of Instrumental Part
- - - Mood
- - - Rhyme Scheme
- - - Lyric Density
+ come up with an arbitrary premise or a set of parameter using the attributes:
+ - Form (number and length of sections, bars per section)
+ - Tempo
+ - Time Signature
+ - Key
+ - Melodic Mode
+ - Number of Chords per section
+ - Number of Tracks
+ - Density of Instrumental Part
+ - Mood
+ - Rhyme Scheme
+ - Lyric Density
 
 
 ## Develop good work habits.
