@@ -3,3 +3,4 @@
  - [5 Things All Musicians Need](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/5ThingsAllMusciansNeed.md)
  - [6 Tips For Learning By Ear](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/sixTipsToLearnSongsByEar.md)
  - [Notes from Craft and Business of Songwriting](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/NotesFromCAndBofSongwriting.md)
+ - [Band Exercises](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/BandExercises.md)
