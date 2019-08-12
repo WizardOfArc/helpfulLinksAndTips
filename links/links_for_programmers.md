@@ -24,6 +24,9 @@
 ## Ruby
  - [Awesome Ruby](https://github.com/markets/awesome-ruby#readme)
 
+## Rust
+ - [Rust Language Cheat Sheet](https://cheats.rs/)
+
 ## Scala:
  - [Scala Documentation](https://docs.scala-lang.org/overviews/)
  
