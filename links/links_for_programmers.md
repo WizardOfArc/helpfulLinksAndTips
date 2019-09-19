@@ -21,6 +21,13 @@
 ## Git
  - [The Git Book](https://git-scm.com/book/en/v2)
 
+## Go
+- [Official Go language page](https://golang.org/)
+- [The Go Playground](https://play.golang.org)
+- [The Go Play Space](https://goplay.space) - _This is an experimental alternative Go Playground frontend that is built in Go itself (using GopherJS, a Go→JavaScript transpiler, and Vecty, a React-like frontend library for GopherJS)._
+- [A Tour of Go](https://tour.golang.org)
+- [Effective Go](https://golang.org/doc/effective_go.html)
+
 ## Ruby
  - [Awesome Ruby](https://github.com/markets/awesome-ruby#readme)
 
@@ -41,4 +48,8 @@
  
 ## SVG:
  - [Jenkov SVG Tutorials](http://tutorials.jenkov.com/svg/index.html) - _the best tutorials for SVG_
+ - [MDN's SVG Docs](https://developer.mozilla.org/en-US/docs/Web/SVG) - _also quite good_
+
+## Design Patterns:
+ - [G.o.F. Design Patterns](http://www.blackwasp.co.uk/gofpatterns.aspx)
 
