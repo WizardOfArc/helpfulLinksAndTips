@@ -17,9 +17,6 @@
 ### Clojure
  - [Awesome Clojure](https://github.com/razum2um/awesome-clojure#readme)
 
-## Git
- - [The Git Book](https://git-scm.com/book/en/v2)
-
 ### Go
 - [Official Go language page](https://golang.org/)
 - [The Go Playground](https://play.golang.org)
@@ -57,4 +54,9 @@
 ### SVG:
  - [Jenkov SVG Tutorials](http://tutorials.jenkov.com/svg/index.html) - _the best tutorials for SVG_
  - [MDN's SVG Docs](https://developer.mozilla.org/en-US/docs/Web/SVG) - _also quite good_
+
+## Programming Resources
+### Git
+ - [The Git Book](https://git-scm.com/book/en/v2)
+
 
