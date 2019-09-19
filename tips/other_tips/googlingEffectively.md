@@ -97,6 +97,7 @@ In the second, Google will search for the numbers 41, 42, and 43. It is obscure,
 Now we’re getting into the general tips. Google search knows how to search for a lot of things. What this means is you don’t need to be too specific. If you need a pizza place nearby, use this to search.
 
  - Pizza places nearby
+
 Google search will grab your location and deliver a variety of results about pizza places that are near you.
 
 ## 12. Gradually add search terms
