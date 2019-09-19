@@ -86,8 +86,8 @@ Searching for a range of numbers is another tip we don’t anticipate a lot of p
 
 People interested in money or statistics will find this tip particularly useful. Essentially, you use two dots and a number to let Google search know you’re looking for a specific range of numbers. Like the syntax below:
 
-What teams have won the Stanley Cup ..2004
-41..43
+- What teams have won the Stanley Cup ..2004
+- 41..43
 In the first instance, the search will toss back the team that won the Stanley Cup in 2004. The two dots with only one number will tell the search that you don’t need anything before or after 2004. This can help narrow down searches to a specific number to improve search results.
 
 In the second, Google will search for the numbers 41, 42, and 43. It is obscure, but wildly useful if you happen to need to search for numbers like this.
