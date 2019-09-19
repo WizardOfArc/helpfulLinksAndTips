@@ -61,8 +61,9 @@ Google search can actually do math for you. This is a rather complex one to desc
 
 It is important to note that it won’t solve all math problems, but it will solve a good number of them. Here are a couple of examples of the syntax:
 
-8 * 5 + 5
-Planck’s Consant
+- 8 * 5 + 5
+- Planck’s Consant
+
 If you search the first one, it’ll return 45. It will also show a calculator that you can use to find answers to more questions.
 
 This is handy if you need to do some quick math but don’t want to do it in your head. If you search the second term, it will return the number value of Planck’s Constant.
