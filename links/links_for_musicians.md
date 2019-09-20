@@ -9,5 +9,6 @@
 ## Bass
 ## Drums
 ## Music Theory
+ - [Ian Ring's A Study of Scales](https://ianring.com/musictheory/scales/)
 ## Songwriting
 
