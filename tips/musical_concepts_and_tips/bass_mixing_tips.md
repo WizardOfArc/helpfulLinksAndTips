@@ -7,12 +7,12 @@
 1. Do a high pass on first track
 1. Duplicate this track 
 1. On copy of high pass track add amp sim / distortion / overdrive etc
-1. add compression to both high-pass tracks
-1. pass to a single bass bus
-1. add compression and EQ on bass bus
+1. Add compression to both high-pass tracks
+1. Pass to a single bass bus
+1. Add compression and EQ on bass bus
 1. Mix to flavor (also listen to how it sounds in the mix!)
 
 ## For Rick-O-Sound
-1. record rick-o-sound into two track: Neck, and Bridge
-1. apply all of the standard mixing but to both Neck and Bridge
-1. pan all the neck to one side and bridge to another 
+1. Record rick-o-sound into two tracks: Neck and Bridge
+1. Apply all of the standard mixing to both Neck and Bridge in parallel
+1. Pan all the Neck to one side and Bridge to another 
