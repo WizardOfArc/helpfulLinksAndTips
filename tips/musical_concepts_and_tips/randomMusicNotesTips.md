@@ -1,6 +1,7 @@
 # Random Musical Tips and Notes
 
 ## Quick Rules
+ - Always a balance between the familiar and the new.
  - Never Stifle an Impulse!
  - Record every note you play! capture accidents.
  - Don't be reluctant to write a "dummy" tune (refactor refactor)
