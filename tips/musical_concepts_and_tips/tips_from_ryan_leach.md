@@ -17,8 +17,7 @@
     - originally from Alan Belkin
     - start simple - small 2-5 notes with some internal contrast
 - Create (1-2 bar) Phrase from Motif
-    - Azi's mathy formula: <em><strong>&phi; = m&#x2081;&rarr;c</strong></em>
-        - <em><strong>&rarr;</strong></em> means 'followed sequentially by'
+    - Azi's mathy formula: <em><strong>&phi; = m&#x2081; &plus; c</strong></em>
         - <em><strong>&phi;</strong></em> is phrase
         - <em><strong>m&#x2081;</strong></em> is motif
         - <em><strong>c = m&#x2082; | m&#x2081;'</strong></em>
@@ -27,14 +26,14 @@
 - Thematic forms:
     - Period
         - for a sense of balance and continuation
-        - <em><strong>P = &phi;&#x2081;&rarr;&phi;&#x2082;&rarr;&phi;&#x2081;&rarr;C</strong></em>
+        - <em><strong>P = &phi;&#x2081; &plus; &phi;&#x2082; &plus; &phi;&#x2081; &plus; C</strong></em>
             - <em><strong>P</strong></em> is Period
             - <em><strong>&phi;&#x2081;</strong></em> is first phrase
             - <em><strong>&phi;&#x2082;</strong></em> is contrasting phrase
             - <em><strong>C</strong></em> is cadence
     - Sentence
         - for a sense of motion and 'more'
-        - <em><strong>S = &phi;&#x2081;&rarr;&phi;&#x2081;'&rarr;&phi;&#x2082;&rarr;C</strong></em>
+        - <em><strong>S = &phi;&#x2081; &plus; &phi;&#x2081;' &plus; &phi;&#x2082; &plus; C</strong></em>
             - <em><strong>S</strong></em> is Sentence
             - <em><strong>&phi;&#x2081;'</strong></em> is sequenced or barely tweaked version of <em><strong>&phi;&#x2081;</strong></em>
 
