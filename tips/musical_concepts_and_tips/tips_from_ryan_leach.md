@@ -16,11 +16,11 @@
     - originally from Alan Belkin
     - start simple - small 2-5 notes with some internal contrast
 - Create (1-2 bar) Phrase from Motif
-    - Azi's mathy formula: <strong>&phi; = m&#x2081; + c</strong>
-        - <strong>&phi;</strong> is phrase
-        - <strong>m&#x2081;</strong> is motif
-        - <strong>c = m&#x2082; | m&#x2081;'</strong>
-            - <strong>m&#x2082;</strong> is another motif
-            - <strong>m&#x2081;'</strong> is a variation of <strong>m&#x2081;</strong>
+    - Azi's mathy formula: <em><strong>&phi; = m&#x2081; + c</strong></em>
+        - <em><strong>&phi;</strong></em> is phrase
+        - <em><strong>m&#x2081;</strong></em> is motif
+        - <em><strong>c = m&#x2082; | m&#x2081;'</strong></em>
+            - <em><strong>m&#x2082;</strong></em> is another motif
+            - <em><strong>m&#x2081;'</strong></em> is a variation of <em><strong>m&#x2081;</strong></em>
 - Thematic forms:
 
