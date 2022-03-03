@@ -16,11 +16,11 @@
     - originally from Alan Belkin
     - start simple - small 2-5 notes with some internal contrast
 - Create (1-2 bar) Phrase from Motif
-    - Azi's mathy formula &phi; = m + c
+    - Azi's mathy formula &phi; = m&#x2081; + c
         - &phi; is phrase
-        - m is motif
-        - c is contrasting element
-            - another motif
-            - or variation of m
+        - m&#x2081; is motif
+        - c = m&#x2082; | m&#x2081;'
+            - m&#x2082; is another motif
+            - m&#x2081;' is a variation of m&#x2081;
 - Thematic forms:
 
