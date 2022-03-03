@@ -32,7 +32,7 @@
             - <em><strong>&phi;&#x2082;</strong></em> is contrasting phrase
             - <em><strong>C</strong></em> is cadence
     - Sentence
-        - for a sense of excitement and motion
+        - for a sense of motion and 'more'
         - <em><strong>S = &phi;&#x2081;&rarr;&phi;&#x2081;'&rarr;&phi;&#x2082;&rarr;C</strong></em>
             - <em><strong>S</strong></em> is Sentence
             - <em><strong>&phi;&#x2081;'</strong></em> is sequenced or barely tweaked version of <em><strong>&phi;&#x2081;</strong></em>
