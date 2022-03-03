@@ -10,4 +10,4 @@
  - [Wee Guitar Grimoire](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/guitar_grimoire)
  - [Improvement Tips](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/musicImprovementNotes.md)
  - [Bass Mixing Tips](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/bass_mixing_tips.md)
- - [Self Teaching From Master Works](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/musical_concepts_and_tips/self_teaching_from_master_works.md')
+ - [Self Teaching From Master Works](https://github.com/WizardOfArc/helpfulLinksAndTips/blob/master/tips/musical_concepts_and_tips/self_teaching_from_master_works.md)
