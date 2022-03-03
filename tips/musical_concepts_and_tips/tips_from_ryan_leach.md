@@ -10,6 +10,7 @@
         - use 1D6 if you want to get modal
     - use any die with system to select tempo
     - use any die with system to select time signature
+        - D20 for top number and 2^D4 for bottom number
     - use 1D12 to select first note
     - use 1D12 to select second note
 - Selecting / Creating good Motif:
@@ -17,7 +18,7 @@
     - start simple - small 2-5 notes with some internal contrast
 - Create (1-2 bar) Phrase from Motif
     - Azi's mathy formula: <em><strong>&phi; = m&#x2081;&rarr;c</strong></em>
-        - <em<strong>&rarr;</strong></em> means 'followed sequentially by'
+        - <em><strong>&rarr;</strong></em> means 'followed sequentially by'
         - <em><strong>&phi;</strong></em> is phrase
         - <em><strong>m&#x2081;</strong></em> is motif
         - <em><strong>c = m&#x2082; | m&#x2081;'</strong></em>
