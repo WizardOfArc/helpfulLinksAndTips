@@ -37,3 +37,5 @@
             - <em><strong>S</strong></em> is Sentence
             - <em><strong>&phi;&#x2081;'</strong></em> is sequenced or barely tweaked version of <em><strong>&phi;&#x2081;</strong></em>
 
+- Finish writing your theme before listening back/editing
+    - listening to just your first phrase before completing your theme will you give an innacurate sense of the flow of the theme, you'll have done extra repetitions - finish you theme first - then listen to it as a whole before editing.
