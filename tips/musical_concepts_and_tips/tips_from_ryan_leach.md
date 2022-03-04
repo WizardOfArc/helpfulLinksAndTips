@@ -9,6 +9,8 @@
     - use any die to select Major or Minor: even-Major; odd-minor
         - use 1D6 if you want to get modal
     - use any die with system to select tempo
+        - D20 times 10?
+        - D6 % 3 with 1 slow, 2 medium, 0 fast?
     - use any die with system to select time signature
         - D20 for top number and 2^D4 for bottom number
     - use 1D12 to select first note
